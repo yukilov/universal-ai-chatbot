@@ -1,0 +1,4 @@
+streamlit
+supabase
+google-generativeai
+gotrue==2.9.0
