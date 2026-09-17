@@ -1,3 +1,0 @@
-streamlit
-supabase==2.3.0
-google-generativeai
